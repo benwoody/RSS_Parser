@@ -1,0 +1,18 @@
+#############################################
+# 		Simple RSS reader v.0.2
+# 			by Ben Woodall
+#############################################
+#
+#			Changelog v.0.2
+# * Added item titles, date, and description
+# * Added spacing and whatnot to make it purtier
+#
+#			Previous Versions
+# * Enter URL via command line argument
+# * Include RSS Title, URL, and number of entries on output
+#
+#			For Later
+# * If ARGV doesn't pass, default to get url
+# * Parse newest 5 posts, ask if more, (Y/N?), get/end
+# * Add color codes for titles, dates, etc.. for readability
+This file was modified by JetBrains RubyMine 3.1.1 for binding GitHub repository
